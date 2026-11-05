@@ -2,14 +2,14 @@
 
 Two approved text-only identities, using the niltavi-ui palette, and bird illustrations in paper-cut and woodcut styles.
 
-- **A — Primary:** cobalt lettering with a rufous-orange dot. The default for prominent brand placements.
-- **B — Muted:** neutral lettering, cobalt dots above the two i characters, and a rufous-orange period. Use in quieter contexts where a brightly colored wordmark would be too prominent.
+- **Primary:** cobalt lettering with a rufous-orange dot. The default for prominent brand placements.
+- **Muted:** neutral lettering, cobalt dots above the two i characters, and a rufous-orange period. Use in quieter contexts where a brightly colored wordmark would be too prominent.
 
 ## Assets
 
-| Format | A light | A dark | B light | B dark |
+| Format | Primary · Light | Primary · Dark | Muted · Light | Muted · Dark |
 | --- | --- | --- | --- | --- |
-| Preview | <img src="png/solid/niltavi-light-1000.png" width="180" alt="A primary wordmark on a light background" /> | <img src="png/solid/niltavi-dark-1000.png" width="180" alt="A primary wordmark on a dark background" /> | <img src="png/solid/niltavi-muted-light-1000.png" width="180" alt="B muted wordmark on a light background" /> | <img src="png/solid/niltavi-muted-dark-1000.png" width="180" alt="B muted wordmark on a dark background" /> |
+| Preview | <img src="png/solid/niltavi-light-1000.png" width="180" alt="Primary niltavi wordmark on a light background" /> | <img src="png/solid/niltavi-dark-1000.png" width="180" alt="Primary niltavi wordmark on a dark background" /> | <img src="png/solid/niltavi-muted-light-1000.png" width="180" alt="Muted niltavi wordmark on a light background" /> | <img src="png/solid/niltavi-muted-dark-1000.png" width="180" alt="Muted niltavi wordmark on a dark background" /> |
 | SVG | [SVG](svg/niltavi-light.svg) | [SVG](svg/niltavi-dark.svg) | [SVG](svg/niltavi-muted-light.svg) | [SVG](svg/niltavi-muted-dark.svg) |
 | PNG with background | [PNG](png/solid/niltavi-light-1000.png) | [PNG](png/solid/niltavi-dark-1000.png) | [PNG](png/solid/niltavi-muted-light-1000.png) | [PNG](png/solid/niltavi-muted-dark-1000.png) |
 | Transparent PNG | [PNG](png/transparent/niltavi-light-1000-transparent.png) | [PNG](png/transparent/niltavi-dark-1000-transparent.png) | [PNG](png/transparent/niltavi-muted-light-1000-transparent.png) | [PNG](png/transparent/niltavi-muted-dark-1000-transparent.png) |
@@ -42,7 +42,7 @@ Both PNGs are **1000 x 1000**, with the portrait artwork centered and its aspect
 
 ## Wordmark colors
 
-| Theme | A lettering / B accents | B lettering | Period | Solid background |
+| Theme | Primary lettering / Muted accents | Muted lettering | Period | Solid background |
 | --- | --- | --- | --- | --- |
 | Light | `niltava-600` / `#3A5CF4` | `throat-950` / `#1B2235` | `rufous-500` / `#DD6300` | `throat-50` / `#F7F9FF` |
 | Dark | `niltava-400` / `#79A4FF` | `throat-50` / `#F7F9FF` | `rufous-300` / `#FFAD5A` | `throat-975` / `#0B1224` |
