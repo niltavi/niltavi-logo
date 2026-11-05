@@ -1,7 +1,5 @@
 # niltavi logo
 
-<img src="svg/niltavi-light.svg" width="240" alt="niltavi primary wordmark" />
-
 Two approved text-only identities, using the niltavi-ui palette, and bird illustrations in paper-cut and woodcut styles.
 
 - **A — Primary:** cobalt lettering with a rufous-orange dot. The default for prominent brand placements.
@@ -11,6 +9,7 @@ Two approved text-only identities, using the niltavi-ui palette, and bird illust
 
 | Format | A light | A dark | B light | B dark |
 | --- | --- | --- | --- | --- |
+| Preview | <img src="png/solid/niltavi-light-1000.png" width="180" alt="A primary wordmark on a light background" /> | <img src="png/solid/niltavi-dark-1000.png" width="180" alt="A primary wordmark on a dark background" /> | <img src="png/solid/niltavi-muted-light-1000.png" width="180" alt="B muted wordmark on a light background" /> | <img src="png/solid/niltavi-muted-dark-1000.png" width="180" alt="B muted wordmark on a dark background" /> |
 | SVG | [SVG](svg/niltavi-light.svg) | [SVG](svg/niltavi-dark.svg) | [SVG](svg/niltavi-muted-light.svg) | [SVG](svg/niltavi-muted-dark.svg) |
 | PNG with background | [PNG](png/solid/niltavi-light-1000.png) | [PNG](png/solid/niltavi-dark-1000.png) | [PNG](png/solid/niltavi-muted-light-1000.png) | [PNG](png/solid/niltavi-muted-dark-1000.png) |
 | Transparent PNG | [PNG](png/transparent/niltavi-light-1000-transparent.png) | [PNG](png/transparent/niltavi-dark-1000-transparent.png) | [PNG](png/transparent/niltavi-muted-light-1000-transparent.png) | [PNG](png/transparent/niltavi-muted-dark-1000-transparent.png) |
