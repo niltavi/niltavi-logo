@@ -2,7 +2,7 @@
 
 <img src="svg/niltavi-light.svg" width="240" alt="niltavi primary wordmark" />
 
-Two approved text-only identities, using the niltavi-ui palette, and a separate bird illustration.
+Two approved text-only identities, using the niltavi-ui palette, and bird illustrations in paper-cut and woodcut styles.
 
 - **A — Primary:** cobalt lettering with a rufous-orange dot. The default for prominent brand placements.
 - **B — Muted:** neutral lettering, cobalt dots above the two i characters, and a rufous-orange period. Use in quieter contexts where a brightly colored wordmark would be too prominent.
@@ -19,6 +19,8 @@ All wordmark PNGs are **1000 x 1000**, with identical scale and centered placeme
 
 ## Bird illustration
 
+### Paper-cut
+
 <img src="png/solid/niltavi-bird-white-1000.png" width="240" alt="niltavi bird perched on a branch" />
 
 | SVG | White-background PNG | Transparent PNG |
@@ -26,6 +28,18 @@ All wordmark PNGs are **1000 x 1000**, with identical scale and centered placeme
 | [SVG](svg/niltavi-bird.svg) | [PNG](png/solid/niltavi-bird-white-1000.png) | [PNG](png/transparent/niltavi-bird-transparent-1000.png) |
 
 Both bird PNGs are **1000 x 1000**. The SVG has a transparent background and a portrait viewBox.
+
+### Woodcut
+
+<img src="png/solid/niltavi-bird-woodcut-white-1000.png" width="240" alt="niltavi woodcut bird perched on a branch" />
+
+| SVG | White-background PNG | Transparent PNG |
+| --- | --- | --- |
+| [SVG](svg/niltavi-bird-woodcut.svg) | [PNG](png/solid/niltavi-bird-woodcut-white-1000.png) | [PNG](png/transparent/niltavi-bird-woodcut-transparent-1000.png) |
+
+Extracted from the homepage's [subject artwork](https://github.com/niltavi/niltavi-website/blob/4dc2fc5daab8968d6d5248abbe2c405f030a06aa/src/features/forest/artwork/subject.svg). The standalone SVG preserves the bird's colors, feather incisions, and `0 0 1071 1468` viewBox, with the scene positioning and animation wrappers removed. The pale incisions remain filled in both exports.
+
+Both PNGs are **1000 x 1000**, with the portrait artwork centered and its aspect ratio preserved. The SVG and transparent PNG have no background; the solid PNG uses white.
 
 ## Wordmark colors
 
