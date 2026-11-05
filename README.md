@@ -35,6 +35,4 @@ All PNGs are **1000 × 1000**.
 | White-background PNG | [PNG](png/solid/niltavi-bird-white-1000.png) | [PNG](png/solid/niltavi-bird-woodcut-white-1000.png) |
 | Transparent PNG | [PNG](png/transparent/niltavi-bird-transparent-1000.png) | [PNG](png/transparent/niltavi-bird-woodcut-transparent-1000.png) |
 
-Woodcut source: [Niltavi homepage artwork](https://github.com/niltavi/niltavi-website/blob/4dc2fc5daab8968d6d5248abbe2c405f030a06aa/src/features/forest/artwork/subject.svg).
-
 Wordmarks use DM Sans Medium, outlined in SVG. [Font license](FONT-LICENSE.txt).
