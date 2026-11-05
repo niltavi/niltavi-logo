@@ -15,8 +15,6 @@
 
 ---
 
-All PNGs are **1000 × 1000**.
-
 ## Wordmarks
 
 | Format | Primary · Light | Primary · Dark | Muted · Light | Muted · Dark |
@@ -36,3 +34,5 @@ All PNGs are **1000 × 1000**.
 | Transparent PNG | [PNG](png/transparent/niltavi-bird-transparent-1000.png) | [PNG](png/transparent/niltavi-bird-woodcut-transparent-1000.png) |
 
 Wordmarks use DM Sans Medium, outlined in SVG. [Font license](FONT-LICENSE.txt).
+
+All PNGs are **1000 × 1000**.
